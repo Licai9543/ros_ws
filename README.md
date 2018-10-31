@@ -1,2 +1,2 @@
 # ros_ws
-首次使用，请多关照
+hello git!
